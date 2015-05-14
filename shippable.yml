@@ -1,2 +1,5 @@
 language: python
 python: 3.4
+env:
+ - secure: JjVlJSqbgliSRxuofXCneuGF5K6pJyfl6MnLs4O1OGzIulR3XWrDGxE5ChbZ+wmsSnLT/CWiBF5JSeUOc5mnXwZhuJH8NjRvik/011+ODBP7i+111xmKQ1eLOjm1l5p3tP6ys+THuiQkTmk5craQf2A0okK8aNG8BOZKj+qYlkKo5gLIttaxfdzNPGqqKelNIcGJjLJulpOsRkY/iNhwdUr7Oz1Sr8qNNgApUskbGjGt62Y7yq+ZX7Q0pyC+RU01TP3horivaAoE1BzEMvx8MhXMDgZ89pEt5AVtHQ7Qnfix1vq5IWBtyGNRaPTKcwPnhNzt7jqookVNSRtN2a5pBA==
+script: echo $prod_var
